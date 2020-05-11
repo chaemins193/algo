@@ -15,4 +15,4 @@ class Solution {
         return fibonacci[N] * 4 + fibonacci[N - 1] * 2;
     }
  
-}https://programmers.co.kr/learn/courses/30/lessons/43104
+}
